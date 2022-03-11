@@ -1,0 +1,10 @@
+type Query{
+    reviews: [Review]
+}
+
+type Review {
+    id: ID,
+    albumId: Int,
+    text: String,
+    score: Int
+}

@@ -1,0 +1,13 @@
+.gradle
+.DS_STORE
+build/
+target/
+!gradle/wrapper/gradle-wrapper.jar
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+samples/kofu-reactive-minimal/com.sample.applicationkt
+samples/jafu-reactive-minimal/com.sample.application
+.zip%
