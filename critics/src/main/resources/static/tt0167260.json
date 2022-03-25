@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Lord of the Rings: The Return of the King",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 1,
+            "byline": "Elvis Mitchell",
+            "headline": "Triumph Tinged With Regret in Middle Earth",
+            "summary_short": "After the galloping intelligence displayed in the first two parts of &quot;The Lord of the Rings&quot; series, your fear may be that Peter Jackson would become cautious and unimaginative with the last episode of his trilogy. But Mr. Jackson crushes any such fear. His &quot;King&quot; is a meticulous and prodigious vision made by a director who was not hamstrung by heavy use of computer special-effects imagery. The final installment  follows the hobbit Frodo (Elijah Wood), increasingly fevered as the ring exercises its power over him, on the last leg of his perilous journey to Mordor to destroy the sinister object.  The wizard Gandalf (Ian McKellen), in a voice sodden with mellow sadness, believes that Frodo is on a suicide mission: &quot;There never was much hope. Just a false hope.&quot; Mr. Jackson takes his time with the story, but he's not sloughing off here. Rather he is building toward a more than solid conclusion. The grandiloquence that sustained the second installment, &quot;The Two Towers,&quot; with its pounding and operatic martial fury — a movie that actually created a state of siege and left audiences hanging —  can be found here. By its end, &quot;King&quot; glides to the gentle bonhomie that opened the &quot;Ring&quot; movies, but its epilogue is tinged with regret: &quot;You can't go back. Some wounds don't heal.&quot; It's an epic about the price of triumph, a subversive victory itself in a large-scale pop-action film. — Elvis Mitchell",
+            "publication_date": "2003-12-16",
+            "opening_date": "2003-12-17",
+            "date_updated": "2017-11-02 04:18:03",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2003/12/16/movies/film-review-triumph-tinged-with-regret-in-middle-earth.html",
+                "suggested_link_text": "Read the New York Times Review of The Lord of the Rings: The Return of the King"
+            },
+            "multimedia": null
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Saving Private Ryan",
+            "mpaa_rating": "TV-MA",
+            "critics_pick": 1,
+            "byline": "Janet Maslin",
+            "headline": "Saving Private Ryan (Movie)  ",
+            "summary_short": "World War II squad risks all to find one soldier. Magnificent.",
+            "publication_date": "1998-07-24",
+            "opening_date": "1998-07-24",
+            "date_updated": "2017-11-02 04:17:55",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1998/07/24/movies/film-review-panoramic-and-personal-visions-of-war-s-anguish.html",
+                "suggested_link_text": "Read the New York Times Review of Saving Private Ryan"
+            },
+            "multimedia": null
+        }
+    ]
+}

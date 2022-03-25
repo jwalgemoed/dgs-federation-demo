@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Untouchables",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "A. O. SCOTT",
+            "headline": "Helping a White Man Relearn Joie de Vivre",
+            "summary_short": "“The Intouchables” is an ingratiating French comedy of cross-racial friendship.",
+            "publication_date": "2012-05-24",
+            "opening_date": null,
+            "date_updated": "2017-11-02 04:16:34",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2012/05/25/movies/the-intouchables-arrives-from-france.html",
+                "suggested_link_text": "Read the New York Times Review of The Untouchables"
+            },
+            "multimedia": null
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Seven",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "Janet Maslin",
+            "headline": "SEVEN (MOVIE)",
+            "summary_short": "Murders based on seven deadly sins. Deadly dull.",
+            "publication_date": "1995-09-22",
+            "opening_date": "1995-09-22",
+            "date_updated": "2017-11-02 04:17:49",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1995/09/22/movies/film-review-a-sickening-catalogue-of-sins-every-one-of-them-deadly.html",
+                "suggested_link_text": "Read the New York Times Review of Seven"
+            },
+            "multimedia": null
+        }
+    ]
+}

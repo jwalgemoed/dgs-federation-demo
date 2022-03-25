@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Seven Samurai",
+            "mpaa_rating": "Unrated",
+            "critics_pick": 1,
+            "byline": "BOSLEY CROWTHER",
+            "headline": "Magnificent Seven, The",
+            "summary_short": "Hired village protectors, via Kurosawa; the original ``Magnificent Seven.'' Gripping, often brutal.",
+            "publication_date": "1956-11-20",
+            "opening_date": "1956-11-19",
+            "date_updated": "2017-11-02 04:17:18",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1956/11/20/archives/screen-japanese-import.html",
+                "suggested_link_text": "Read the New York Times Review of Seven Samurai"
+            },
+            "multimedia": null
+        }
+    ]
+}

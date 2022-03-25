@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Gladiator",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "ELVIS MITCHELL",
+            "headline": "Gladiator (Movie)  ",
+            "summary_short": "This movie is the answer to a question no one bothered to ask: What would happen if someone decided to film the imminent extreme football league as if it were a Chanel commercial? Ridley Scott subjects action-packed bouts of mayhem and decapitation in the Roman Colosseum to his glossy, inhuman directing style;  it's admirable but repellent. Russell Crowe is the noble Roman general who ends up fighting for his life. Crowe gives a performance with ball-of-fire intensity, suffused with a movie star's impatience. He holds the movie together, such as it is. &#151; Elvis Mitchell",
+            "publication_date": "2000-05-05",
+            "opening_date": "2000-05-05",
+            "date_updated": "2017-11-02 04:17:58",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2000/05/05/movies/film-review-that-cruel-colosseum.html",
+                "suggested_link_text": "Read the New York Times Review of Gladiator"
+            },
+            "multimedia": null
+        }        
+    ]
+}

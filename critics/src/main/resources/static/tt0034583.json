@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 2,
+    "results":
+    [
+        {
+            "display_title": "Casablanca",
+            "mpaa_rating": "PG",
+            "critics_pick": 1,
+            "byline": "BOSLEY CROWTHER",
+            "headline": "Casablanca",
+            "summary_short": "Rick's place. Still fabulous.",
+            "publication_date": "1942-11-27",
+            "opening_date": "1943-01-23",
+            "date_updated": "2017-11-02 04:17:06",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1942/11/27/archives/-casablanca-with-humphrey-bogart-and-ingrid-bergman-at-hollywood.html",
+                "suggested_link_text": "Read the New York Times Review of Casablanca"
+            },
+            "multimedia": null
+        }
+    ]
+}

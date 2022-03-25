@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "12 Angry Men",
+            "mpaa_rating": "Not Rated",
+            "critics_pick": 1,
+            "byline": "A.H. WEILER",
+            "headline": "12 Angry Men",
+            "summary_short": "Male jury and stubborn holdout. Piercing.",
+            "publication_date": "1957-04-15",
+            "opening_date": "1957-04-01",
+            "date_updated": "2017-11-02 04:17:18",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1957/04/15/archives/screen-12-angry-men-jury-room-drama-has-debut-at-capitol.html",
+                "suggested_link_text": "Read the New York Times Review of 12 Angry Men"
+            },
+            "multimedia": null
+        }
+    ]
+}

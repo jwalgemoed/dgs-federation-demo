@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Pianist",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "A. O. Scott",
+            "headline": "Pianist, The (Movie)  ",
+            "summary_short": "Roman Polanski, filming in Poland for the first time in 40 years, has made one of the finest films yet about the catastrophe the Nazis visited on Poland and its Jewish population. Adrien Brody, in a fluid, understated and thoroughly unsentimental performance, plays Wladislaw Szpilman, a popular concert pianist who survived, against odds that can only be described as absurd, the German occupation of Warsaw and the inferno of the city's Jewish ghetto. With relentless clarity, Mr. Polanski tracks the deterioration of his hero's situation and the day-in, day-out assault on his humanity. There are scenes of unwatchable brutality as well as of kindness and solidarity, but what is most remarkable is the sense of daily life in impossible conditions. The last part of the movie, in which Szpilman is first trapped in a safe house and then condemned to wander the bombed-out city, is a tour de force, at once harrowing and strangely comic. — A. O. Scott",
+            "publication_date": "2002-12-27",
+            "opening_date": "2003-03-28",
+            "date_updated": "2017-11-02 04:18:02",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2002/12/27/movies/film-review-surviving-the-warsaw-ghetto-against-steep-odds.html",
+                "suggested_link_text": "Read the New York Times Review of The Pianist"
+            },
+            "multimedia": null
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Avengers: Endgame",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 0,
+            "byline": "A.O. SCOTT",
+            "headline": "‘Avengers: Endgame’ Review: The Real Heroes Were the Friends We Made Along the Way",
+            "summary_short": "Iron Man, Thor, the Hulk, Captain America and other stars settle scores, tie up loose ends and take a long victory lap in the final chapter of this cycle.",
+            "publication_date": "2019-04-23",
+            "opening_date": "2019-04-26",
+            "date_updated": "2019-05-23 16:44:02",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2019/04/23/movies/avengers-endgame-review.html",
+                "suggested_link_text": "Read the New York Times Review of Avengers: Endgame"
+            },
+            "multimedia":
+            {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2019/04/23/arts/23avengers-hp-promo/23avengers-hp-promo-mediumThreeByTwo210-v5.jpg",
+                "height": 140,
+                "width": 210
+            }
+        }
+    ]
+}

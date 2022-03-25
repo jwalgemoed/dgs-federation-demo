@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Forrest Gump",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 0,
+            "byline": "Janet Maslin",
+            "headline": "FORREST GUMP (MOVIE)",
+            "summary_short": "Slow-witted innocent caught up in 20th century's great events. Good special effects, haunting Hanks.",
+            "publication_date": "1994-07-06",
+            "opening_date": "1994-07-06",
+            "date_updated": "2017-11-02 04:17:47",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1994/07/06/movies/film-review-tom-hanks-as-an-interloper-in-history.html",
+                "suggested_link_text": "Read the New York Times Review of Forrest Gump"
+            },
+            "multimedia": null
+        }
+    ]
+}

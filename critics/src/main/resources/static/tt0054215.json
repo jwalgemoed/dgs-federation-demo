@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 2,
+    "results":
+    [
+        {
+            "display_title": "Psycho",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "Janet Maslin",
+            "headline": "Psycho (Movie)  ",
+            "summary_short": "Back to the Bates Motel. Good-looking remake of Hitchcock classic.",
+            "publication_date": "1998-12-05",
+            "opening_date": "1998-12-04",
+            "date_updated": "2017-11-02 04:17:56",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1998/12/05/movies/film-review-psycho-the-mama-s-boy-his-motel-guest-and-that-shower.html",
+                "suggested_link_text": "Read the New York Times Review of Psycho"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "Psycho",
+            "mpaa_rating": "Approved",
+            "critics_pick": 1,
+            "byline": "Bosley Crowther",
+            "headline": "PSYCHO (MOVIE)",
+            "summary_short": "Hitchcock's brilliantly grisly shocker set in isolated motel.",
+            "publication_date": "1960-06-17",
+            "opening_date": "1960-09-08",
+            "date_updated": "2017-11-02 04:17:19",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1960/06/17/archives/screen-sudden-shocks-hitchcocks-psycho-bows-at-2-houses.html",
+                "suggested_link_text": "Read the New York Times Review of Psycho"
+            },
+            "multimedia": null
+        }
+    ]
+}

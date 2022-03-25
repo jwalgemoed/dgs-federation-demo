@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "One Flew Over the Cuckoo's Nest",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "VINCENT CANBY",
+            "headline": "One Flew Over the Cuckoo's Nest (Movie)",
+            "summary_short": "Piercing drama of mental institution. Five Oscars, including best picture.",
+            "publication_date": "1975-11-20",
+            "opening_date": "1975-11-21",
+            "date_updated": "2017-11-02 04:17:27",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1975/11/20/archives/israeli-reconnaisance-jets-fly-over-beirut-stir-fear-of-attack.html",
+                "suggested_link_text": "Read the New York Times Review of One Flew Over the Cuckoo's Nest"
+            },
+            "multimedia": null
+        }
+    ]
+}

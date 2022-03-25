@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Inception",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 0,
+            "byline": "A. O. SCOTT",
+            "headline": "This Time the Dream’s on Me",
+            "summary_short": "In Christopher Nolan’s “Inception” a specialist in corporate mental espionage and his co-workers penetrate the minds of their slumbering targets.",
+            "publication_date": "2010-07-15",
+            "opening_date": "2010-07-16",
+            "date_updated": "2017-11-02 04:18:11",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2010/07/16/movies/16inception.html",
+                "suggested_link_text": "Read the New York Times Review of Inception"
+            },
+            "multimedia": null
+        }
+    ]
+}

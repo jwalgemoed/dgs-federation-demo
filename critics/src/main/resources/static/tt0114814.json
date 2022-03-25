@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Anna Karenina (Bolshoi Ballet)",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "ANNA KISSELGOFF",
+            "headline": "Anna Karenina (Movie)",
+            "summary_short": "Bolshoi Ballet version of Tolstoy.",
+            "publication_date": "1979-12-15",
+            "opening_date": "1995-09-15",
+            "date_updated": "2017-11-02 04:17:49",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1979/12/15/archives/screen-4-dances-by-the-bolshoi-ballet-at-the-beacon-the-program.html",
+                "suggested_link_text": "Read the New York Times Review of Anna Karenina (Bolshoi Ballet)"
+            },
+            "multimedia": null
+        }
+    ]
+}

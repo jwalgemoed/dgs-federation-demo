@@ -1,0 +1,33 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Grave of the Fireflies",
+            "mpaa_rating": "Not Rated",
+            "critics_pick": 1,
+            "byline": "GLENN KENNY",
+            "headline": "‘Grave of the Fireflies’ Review: A Pioneering Animated Classic",
+            "summary_short": "Isao Takahata’s 1988 masterpiece finally gets a proper theatrical run in New York.",
+            "publication_date": "2019-01-03",
+            "opening_date": "1989-07-26",
+            "date_updated": "2019-01-18 17:44:01",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2019/01/03/movies/grave-of-the-fireflies-review.html",
+                "suggested_link_text": "Read the New York Times Review of Grave of the Fireflies"
+            },
+            "multimedia":
+            {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2019/01/04/arts/04grave1/grave1-mediumThreeByTwo210.jpg",
+                "height": 140,
+                "width": 210
+            }
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Life Is Beautiful",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 1,
+            "byline": "Janet Maslin",
+            "headline": "Life Is Beautiful (Movie)  ",
+            "summary_short": "Father shields son from Nazi horrors with comedy. Best foreign-film Oscar. Enormously likable, stubbornly entertaining.",
+            "publication_date": "1998-10-23",
+            "opening_date": "1999-02-12",
+            "date_updated": "2017-11-02 04:17:56",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1998/10/23/movies/film-review-giving-a-human-and-humorous-face-to-rearing-a-boy-under-fascism.html",
+                "suggested_link_text": "Read the New York Times Review of Life Is Beautiful"
+            },
+            "multimedia": null
+        }
+    ]
+}

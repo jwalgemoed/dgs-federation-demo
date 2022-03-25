@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Green Mile",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "Janet Maslin",
+            "headline": "Green Mile, The (Movie)",
+            "summary_short": "Gentle-giant healer on death row. Moving performances, durable storytelling.",
+            "publication_date": "1999-12-10",
+            "opening_date": "1999-12-10",
+            "date_updated": "2017-11-02 04:17:57",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1999/12/10/movies/film-review-the-walk-on-death-row-can-seem-very-long.html",
+                "suggested_link_text": "Read the New York Times Review of The Green Mile"
+            },
+            "multimedia": null
+        }
+    ]
+}

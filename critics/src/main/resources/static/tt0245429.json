@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Spirited Away",
+            "mpaa_rating": "PG",
+            "critics_pick": 1,
+            "byline": "Elvis Mitchell",
+            "headline": "Spirited Away (Movie)",
+            "summary_short": "The towering, lost dreaminess at the heart of this magnificent animated film is remarkable. Rather than &quot;Spirited Away,&quot; the movie could better be considered the director Hayao Miyazaki's &quot;Through the Looking Glass.&quot; His specialty is taking a primal wish of kids, transporting them to a fantasyland and then marooning them there. The picture's theme is dislocation. That's what happens to little Chihiro (Daveigh Chase), who's trapped in a dream world not of her making. No one else conjures the phantasmagoric and shifting morality of dreams — that fascinating and frightening aspect of having something that seems to represent good become evil — in the way this master Japanese animator does. His movies are as much about moodiness as mood, and the prospect of animated figures not being what they seem — either spiritually or physically — heightens the tension. — Elvis Mitchell",
+            "publication_date": "2002-09-20",
+            "opening_date": "2003-03-28",
+            "date_updated": "2017-11-02 04:18:02",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2002/09/20/movies/film-review-conjuring-up-atmosphere-only-anime-can-deliver.html",
+                "suggested_link_text": "Read the New York Times Review of Spirited Away"
+            },
+            "multimedia": null
+        }
+    ]
+}
