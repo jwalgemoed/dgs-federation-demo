@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Prestige",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 1,
+            "byline": "A. O. SCOTT",
+            "headline": "Two Rival Magicians, and Each Wants the Other to Go Poof",
+            "summary_short": "Entertaining, spirited and shamelessly gimmicky, Christopher Nolan’s film tells the intricate tale of two rival magicians practicing their art in late-Victorian London. ",
+            "publication_date": "2006-10-20",
+            "opening_date": "2006-10-20",
+            "date_updated": "2017-11-02 04:18:04",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2006/10/20/movies/20pres.html",
+                "suggested_link_text": "Read the New York Times Review of The Prestige"
+            },
+            "multimedia": null
+        }
+    ]
+}

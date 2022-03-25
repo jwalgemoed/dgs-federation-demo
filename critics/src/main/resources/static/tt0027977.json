@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Modern Times",
+            "mpaa_rating": "G",
+            "critics_pick": 0,
+            "byline": "FRANK S. NUGENT.",
+            "headline": "Modern Times",
+            "summary_short": "The Little Tramp vs. the Assembly Line. Priceless.",
+            "publication_date": "1936-02-06",
+            "opening_date": "1936-02-25",
+            "date_updated": "2017-11-02 04:16:58",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1936/02/06/archives/heralding-the-return-after-an-undue-absence-of-charlie-chaplin-in.html",
+                "suggested_link_text": "Read the New York Times Review of Modern Times"
+            },
+            "multimedia": null
+        }
+    ]
+}

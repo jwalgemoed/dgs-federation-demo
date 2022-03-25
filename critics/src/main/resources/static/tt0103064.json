@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Terminator 2: Judgment Day",
+            "mpaa_rating": "TV-14",
+            "critics_pick": 0,
+            "byline": "Janet Maslin",
+            "headline": "TERMINATOR 2: JUDGMENT DAY (MOVIE)",
+            "summary_short": "Now he's the good guy. Fast, exciting special-effects epic.",
+            "publication_date": "1991-07-03",
+            "opening_date": "1991-07-03",
+            "date_updated": "2017-11-02 04:17:43",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1991/07/03/movies/review-film-in-new-terminator-the-forces-of-good-seek-peace-violently.html",
+                "suggested_link_text": "Read the New York Times Review of Terminator 2: Judgment Day"
+            },
+            "multimedia": null
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 2,
+    "results":
+    [
+        {
+            "display_title": "It's a Wonderful Life",
+            "mpaa_rating": "Approved",
+            "critics_pick": 1,
+            "byline": "BOSLEY CROWTHER",
+            "headline": "It's a Wonderful Life",
+            "summary_short": "Suicidal family man saved by guardian angel. Capra's cast-iron cheer will hook you.",
+            "publication_date": "1946-12-23",
+            "opening_date": "1947-01-07",
+            "date_updated": "2017-11-02 04:17:09",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1946/12/23/archives/the-screen-in-review-at-three-theatres-its-a-wonderful-life-with.html",
+                "suggested_link_text": "Read the New York Times Review of It's a Wonderful Life"
+            },
+            "multimedia": null
+        }
+    ]
+}

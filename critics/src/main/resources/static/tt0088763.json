@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Back to the Future",
+            "mpaa_rating": "PG",
+            "critics_pick": 1,
+            "byline": "Janet Maslin",
+            "headline": "BACK TO THE FUTURE (MOVIE)",
+            "summary_short": "Marty McFly (Michael J. Fox) finds himself in the quagmire of surviving the white-bread 1950's with a hip 1980's mindset. ",
+            "publication_date": "1985-07-03",
+            "opening_date": "1985-07-03",
+            "date_updated": "2017-11-02 04:17:34",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1985/07/03/movies/in-future-boy-returns-to-the-past.html",
+                "suggested_link_text": "Read the New York Times Review of Back to the Future"
+            },
+            "multimedia": null
+        }
+    ]
+}

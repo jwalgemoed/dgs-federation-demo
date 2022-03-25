@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Godfather, Part II",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "VINCENT CANBY",
+            "headline": "Godfather: Part II, The (Movie)",
+            "summary_short": "",
+            "publication_date": "1974-12-13",
+            "opening_date": "1974-12-20",
+            "date_updated": "2017-11-02 04:17:27",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1974/12/13/archives/godfather-part-ii-is-hard-to-define-the-cast.html",
+                "suggested_link_text": "Read the New York Times Review of The Godfather, Part II"
+            },
+            "multimedia": null
+        }
+    ]
+}

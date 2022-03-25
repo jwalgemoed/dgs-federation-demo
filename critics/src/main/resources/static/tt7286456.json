@@ -1,0 +1,33 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 3,
+    "results":
+    [
+        {
+            "display_title": "Joker",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "A.O. Scott",
+            "headline": "‘Joker’ Review: Are You Kidding Me?",
+            "summary_short": "Todd Phillips’s supervillain origin story starring Joaquin Phoenix is stirring up a fierce debate, but it’s not interesting enough to argue about.",
+            "publication_date": "2019-10-03",
+            "opening_date": "2019-10-04",
+            "date_updated": "2019-11-03 17:44:01",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2019/10/03/movies/joker-review.html",
+                "suggested_link_text": "Read the New York Times Review of Joker"
+            },
+            "multimedia":
+            {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2019/10/05/arts/04Joker-Cover/merlin_161549496_c55020b5-50f8-432b-a141-64fea126a42b-mediumThreeByTwo210.jpg",
+                "height": 140,
+                "width": 210
+            }
+        }
+    ]
+}

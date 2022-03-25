@@ -1,0 +1,31 @@
+type Query{
+    critics(idFilter: String): [Critic]
+}
+
+type Movie @key(fields: "id") @extends {
+    id: ID @external
+    critics: [Critic]
+}
+
+type Critic {
+    id: ID,
+    movieTitle: String,
+    mpaRating: String,
+    criticId: String,
+    author: String,
+    title: String,
+    content: String,
+    url: String
+}
+
+
+scalar ID
+scalar String
+scalar Boolean
+scalar Float
+scalar Int
+scalar _FieldSet
+
+directive @key(fields: _FieldSet!) on OBJECT | INTERFACE
+directive @extends on OBJECT | INTERFACE
+directive @external on FIELD_DEFINITION

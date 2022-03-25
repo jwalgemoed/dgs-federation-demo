@@ -1,0 +1,24 @@
+type Query {
+    movies(titleFilter: String): [Movie]
+}
+
+type Movie @key(fields: "id") {
+    id: ID
+    title: String
+    year: Int
+    image: String
+    rating: Float
+    ratingCount: Int
+    description: String
+}
+
+scalar ID
+scalar String
+scalar Boolean
+scalar Float
+scalar Int
+scalar _FieldSet
+
+directive @key(fields: _FieldSet!) on OBJECT | INTERFACE
+directive @extends on OBJECT | INTERFACE
+directive @external on FIELD_DEFINITION

@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Lord of the Rings: The Fellowship of the Ring",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 1,
+            "byline": "Elvis Mitchell",
+            "headline": "Lord of the Rings, the (Movies) ",
+            "summary_short": "During a birthday celebration, the hobbit Frodo (Elijah Wood) receives a ring that places him in the center of a struggle for the future of the world. The ring, which contains an evil wizard's &quot;will to dominate all life,&quot; must be destroyed in the fire Pits of Mordor, where it was created. &quot;Fellowship&quot; then slips into a series of chases and pitched battles, each with a bit more at stake because the ring's power to tempt those who come in contact with it becomes a bigger factor. There are two groups probably sharing the same dread about this film adaptation of J. R. R. Tolkien's ornate and busy work: its most loving adherents and those who have spent their lives avoiding the books. But neither side is likely to be disappointed by Peter Jackson's altogether heroic job in tackling perhaps the most intimidating nerd/academic fantasy classic ever. – Elvis Mitchell",
+            "publication_date": "2001-12-19",
+            "opening_date": "2001-12-19",
+            "date_updated": "2017-11-02 04:18:00",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2001/12/19/movies/film-review-hit-the-road-middle-earth-gang.html",
+                "suggested_link_text": "Read the New York Times Review of The Lord of the Rings: The Fellowship of the Ring"
+            },
+            "multimedia": null
+        }
+    ]
+}

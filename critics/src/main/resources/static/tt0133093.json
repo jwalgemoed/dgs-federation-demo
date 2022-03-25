@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Matrix",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "Janet Maslin",
+            "headline": "Matrix, The (Movie)  ",
+            "summary_short": "Hacker as action messiah. Enough visual bravado to sustain steady suspense. Cult classic, virtually speaking.",
+            "publication_date": "1999-03-31",
+            "opening_date": "1999-03-31",
+            "date_updated": "2017-11-02 04:17:57",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1999/03/31/movies/film-review-the-reality-is-all-virtual-and-densely-complicated.html",
+                "suggested_link_text": "Read the New York Times Review of The Matrix"
+            },
+            "multimedia": null
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Departed",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "MANOHLA DARGIS",
+            "headline": "Scorsese’s Hall of Mirrors, Littered With Bloody Deceit",
+            "summary_short": "Martin Scorsese's cubistic entertainment about men divided by power, loyalty and their own selves is at once a success and a relief.",
+            "publication_date": "2006-10-06",
+            "opening_date": "2006-10-06",
+            "date_updated": "2017-11-02 04:18:04",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2006/10/06/movies/06depa.html",
+                "suggested_link_text": "Read the New York Times Review of The Departed"
+            },
+            "multimedia": null
+        }
+    ]
+}

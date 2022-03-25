@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Silence of the Lambs",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Vincent Canby",
+            "headline": "SILENCE OF THE LAMBS, THE (MOVIE)",
+            "summary_short": "Hannibal the Cannibal. Fast, witty and jolting.",
+            "publication_date": "1991-02-14",
+            "opening_date": "1991-02-14",
+            "date_updated": "2017-11-02 04:17:42",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1991/02/14/movies/review-film-methods-of-madness-in-silence-of-the-lambs.html",
+                "suggested_link_text": "Read the New York Times Review of The Silence of the Lambs"
+            },
+            "multimedia": null
+        }
+    ]
+}

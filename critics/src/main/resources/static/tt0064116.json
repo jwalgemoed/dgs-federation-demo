@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Once Upon a Time in the West",
+            "mpaa_rating": "M",
+            "critics_pick": 0,
+            "byline": "VINCENT CANBY",
+            "headline": "Once Upon the Time in the West (Movie)",
+            "summary_short": "Beautiful widow with a price on her head. Boldly dark, jagged western, the Sergio Leone way.",
+            "publication_date": "1969-05-29",
+            "opening_date": null,
+            "date_updated": "2017-11-02 04:15:59",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1969/05/29/archives/once-upon-the-time-in-west.html",
+                "suggested_link_text": "Read the New York Times Review of Once Upon a Time in the West"
+            },
+            "multimedia": null
+        }
+    ]
+}

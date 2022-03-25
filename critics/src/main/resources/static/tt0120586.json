@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "American History X",
+            "mpaa_rating": "TV-14",
+            "critics_pick": 0,
+            "byline": "Janet Maslin",
+            "headline": "American History X (Movie)  ",
+            "summary_short": "Reformed skinhead and neo-Nazi brother. Inflated, but knows which nerves to hit.",
+            "publication_date": "1998-10-28",
+            "opening_date": "1998-11-20",
+            "date_updated": "2017-11-02 04:17:56",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1998/10/28/movies/film-review-the-darkest-chambers-of-a-nation-s-soul.html",
+                "suggested_link_text": "Read the New York Times Review of American History X"
+            },
+            "multimedia": null
+        }
+    ]
+}

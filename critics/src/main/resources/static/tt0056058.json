@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Hara-Kiri: Death of a Samurai",
+            "mpaa_rating": "Not Rated",
+            "critics_pick": 0,
+            "byline": "A. O. SCOTT",
+            "headline": "Violent, Yes, but a Story Driven by Emotion",
+            "summary_short": "In Takashi Miike’s “Hara-Kiri: Death of a Samurai,” a samurai cast adrift arrives at the estate of a feudal lord, requesting permission to commit ritual suicide in the courtyard.",
+            "publication_date": "2012-07-19",
+            "opening_date": "2012-07-20",
+            "date_updated": "2017-11-02 04:18:15",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2012/07/20/movies/hara-kiri-death-of-a-samurai-from-takashi-miike.html",
+                "suggested_link_text": "Read the New York Times Review of Hara-Kiri: Death of a Samurai"
+            },
+            "multimedia": null
+        }
+    ]
+}

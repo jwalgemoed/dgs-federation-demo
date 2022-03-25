@@ -1,0 +1,33 @@
+type Query{
+    reviews(idFilter: String): [Review]
+}
+
+
+type Movie @key(fields: "id") @extends {
+    id: ID @external
+    reviews: [Review]
+}
+
+type Review {
+    id: ID,
+    movieTitle: String,
+    reviewId: String,
+    username: String,
+    warningSpoilers: Boolean,
+    date: String,
+    rate: Float,
+    title: String,
+    content: String
+}
+
+
+scalar ID
+scalar String
+scalar Boolean
+scalar Float
+scalar Int
+scalar _FieldSet
+
+directive @key(fields: _FieldSet!) on OBJECT | INTERFACE
+directive @extends on OBJECT | INTERFACE
+directive @external on FIELD_DEFINITION

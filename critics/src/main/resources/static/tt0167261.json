@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Lord of the Rings: The Two Towers",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 0,
+            "byline": "Elvis Mitchell",
+            "headline": "Lord of the Rings, The: The Two Towers (Movie)",
+            "summary_short": "Peter Jackson's scrupulous devotion to the spirit of J.R.R. Tolkien's &quot;Lord of the Rings&quot; trilogy manifests itself in a gripping, intense fashion in this second of the film adaptations. It may be the first sequel that does not bother to give a reprise of the major plot elements of its predecessor immediately; the plan is simply to drop us right into the action. This stratagem creates a few moments of apprehension, the same disconcerted quality that the hobbits Frodo (Elijah Wood) and Sam (Sean Astin) are experiencing on their journey. Their mission began in &quot;The Fellowship of the Ring&quot; when Frodo was entrusted with the ring that gives its bearer enormous powers and, incidentally, could begin the end of life on Middle Earth. The warrior Aragorn (Viggo Mortensen) has been inflated into an even more assured, reflexive action hero. He helps a bewitched king (Bernard Hill) defend his castle. The action sequences are even more compelling than the first time around; we could be watching Orson Welles's &quot;Chimes at Midnight&quot; as directed by George A. Romero — Shakespearean-scale bloodshed and loss as an exploitation movie. There are flaws, particularly the family-oriented video-game aspects, which offer no emotional complications other than saving the day. — Elvis Mitchell",
+            "publication_date": "2002-12-18",
+            "opening_date": "2002-12-18",
+            "date_updated": "2017-11-02 04:18:01",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2002/12/18/movies/film-review-soldiering-on-in-epic-pursuit-of-purity.html",
+                "suggested_link_text": "Read the New York Times Review of The Lord of the Rings: The Two Towers"
+            },
+            "multimedia": null
+        }
+    ]
+}

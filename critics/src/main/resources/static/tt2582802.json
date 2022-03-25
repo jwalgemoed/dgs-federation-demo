@@ -1,0 +1,33 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Whiplash",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "A. O. SCOTT",
+            "headline": "Drill Sergeant in the Music Room ",
+            "summary_short": "Damien Chazelle&#8217;s &#8220;Whiplash&#8221; is a movie about music, but it could just as well have been about an underdog sports team.",
+            "publication_date": "2014-10-09",
+            "opening_date": null,
+            "date_updated": "2017-11-02 04:16:40",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2014/10/10/movies/in-whiplash-a-young-jazz-drummer-vs-his-teacher.html",
+                "suggested_link_text": "Read the New York Times Review of Whiplash"
+            },
+            "multimedia":
+            {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2014/10/10/arts/whiplash/whiplash-mediumThreeByTwo210.jpg",
+                "height": 140,
+                "width": 210
+            }
+        }
+    ]
+}

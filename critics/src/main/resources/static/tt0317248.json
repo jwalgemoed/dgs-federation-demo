@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "City of God",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Stephen Holden",
+            "headline": "City of God (Movie)  ",
+            "summary_short": "A scorching anecdotal history of gang warfare in the slums of Rio de Janeiro, &quot;City of God&quot; is narrated by Rocket (Alexandre Rodrigues), a young photographer who chronicles the deterioration of the housing project in which he grew up from a shantytown into a war zone. The movie, which begins in the 1960's and ends in the early 80's, parallels Rocket's story with the rise of his childhood playmate Li'l Ze (Leandro Firmino da Hora) from a petty thief into a ruthless, drug dealer and neighborhood kingpin commanding a small army of gun-toting children. The history is told in a loose, tall-tale style that suggests a quasi-cinema-verite version of Martin Scorsese's &quot;GoodFellas.&quot; — Stephen Holden",
+            "publication_date": "2003-01-17",
+            "opening_date": "2004-02-13",
+            "date_updated": "2017-11-02 04:18:03",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/2003/01/17/movies/film-review-boys-soldiering-in-an-army-of-crime.html",
+                "suggested_link_text": "Read the New York Times Review of City of God"
+            },
+            "multimedia": null
+        }
+    ]
+}

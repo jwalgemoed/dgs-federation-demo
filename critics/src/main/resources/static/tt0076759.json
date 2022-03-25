@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "Star Wars",
+            "mpaa_rating": "PG",
+            "critics_pick": 1,
+            "byline": "VINCENT CANBY",
+            "headline": "Star Wars (Movie)",
+            "summary_short": "Luke Skywalker and friends vs. evil empire. One of the real champs.",
+            "publication_date": "1977-05-26",
+            "opening_date": "1977-05-25",
+            "date_updated": "2017-11-02 04:17:28",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1977/05/26/archives/star-wars-a-trip-to-a-far-galaxy-thats-fun-and-funny.html",
+                "suggested_link_text": "Read the New York Times Review of Star Wars"
+            },
+            "multimedia": null
+        }
+    ]
+}

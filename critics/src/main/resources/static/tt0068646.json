@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 1,
+    "results":
+    [
+        {
+            "display_title": "The Godfather",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Vincent Canby",
+            "headline": "THE GODFATHER (MOVIE)",
+            "summary_short": "Puzo's Mafioso novel. Scalding and memorable.",
+            "publication_date": "1972-03-16",
+            "opening_date": "1972-03-24",
+            "date_updated": "2017-11-02 04:17:26",
+            "link":
+            {
+                "type": "article",
+                "url": "https://www.nytimes.com/1972/03/16/archives/moving-and-brutal-godfather-bows.html",
+                "suggested_link_text": "Read the New York Times Review of The Godfather"
+            },
+            "multimedia": null
+        }
+    ]
+}
