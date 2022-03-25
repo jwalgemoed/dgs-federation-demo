@@ -26,6 +26,7 @@ scalar Float
 scalar Int
 scalar _FieldSet
 
+
 directive @key(fields: _FieldSet!) on OBJECT | INTERFACE
 directive @extends on OBJECT | INTERFACE
 directive @external on FIELD_DEFINITION

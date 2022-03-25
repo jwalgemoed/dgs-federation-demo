@@ -22,9 +22,10 @@ const gateway = new ApolloGateway({
         { name: 'movies', url: 'http://localhost:8081/graphql' },
         { name: 'reviews', url: 'http://localhost:8085/graphql' },
         { name: 'critic', url: 'http://localhost:8083/graphql' },
+        { name: 'actors', url: 'http://localhost:8087/graphql' },
     ]
 });
-const hostname = '127.0.0.1';
+const hostname = '192.168.1.52';
 const port = 3000;
 const server = new ApolloServer({ gateway, subscriptions:false, tracing:true });
 server.listen(port, hostname);
